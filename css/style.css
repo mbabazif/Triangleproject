@@ -10,5 +10,9 @@ html{
     display: block;
     text-align: center;
     height: 400px;
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-right:12px;
+    padding-left:12px;
 
 }
