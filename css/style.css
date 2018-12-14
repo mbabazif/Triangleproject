@@ -6,5 +6,7 @@ html{
     
     border:dotted; 
     position: relative;
+    padding-left: px;
+    display: block;
 
 }
