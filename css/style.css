@@ -8,5 +8,7 @@ html{
     position: relative;
     padding-left: px;
     display: block;
+    text-align: center;
+    height: 400px;
 
 }
