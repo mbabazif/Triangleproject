@@ -14,5 +14,8 @@ html{
     padding-bottom:12px;
     padding-right:12px;
     padding-left:12px;
+    position: absolute;
+    top:30%;
+    right:40%;
 
 }
