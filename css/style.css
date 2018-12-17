@@ -3,8 +3,9 @@ html{
 }
 .form{
     background-color: aqua;
-    
+    color: blue;
     border:dotted; 
+    float: none;
     position: relative;
     padding-left: px;
     display: block;
