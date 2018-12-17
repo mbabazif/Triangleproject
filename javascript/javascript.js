@@ -20,11 +20,11 @@ function triangle() {
     //     forth_function
     // ]
     // array_of_functions[0]('a string');
-    if ( number ===number2) && (number1 === number2) && (number2 === number1)){
-        
-    }
+    // if ( number ===number2)  (number1 === number2) && (number2 === number1)){
 
-    else if  ((X === Z) && (X=== Y) && (Y===Z)){
+    // }
+
+     if  ((X === Z) && (X=== Y) && (Y===Z)){
         window.alert(" equilateral triangle!");
     }
     
