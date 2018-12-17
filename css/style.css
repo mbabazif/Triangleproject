@@ -1,32 +1,36 @@
-html{
-    background-color:rgb(55, 114, 6); 
+html {
+  background-color: rgb(55, 114, 6);
 }
-.form{
-    background-color: aqua;
-    color: blue;
-    border:dotted; 
-    float: none;
-    position: relative;
-    padding-left: px;
-    display: block;
-    text-align: center;
-    height: 400px;
-    padding-top:12px;
-    padding-bottom:12px;
-    padding-right:12px;
-    padding-left:12px;
-    position: absolute;
-    top:30%;
-    right:40%;
-    background-color: turquoise
-
+.form {
+  font-size: 16;
+  background-color: aqua;
+  color: blue;
+  border: dotted;
+  float: none;
+  position: relative;
+  padding-left: px;
+  display: block;
+  text-align: center;
+  height: 400px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+  position: absolute;
+  top: 30%;
+  right: 40%;
+  background-color: turquoise;
 }
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
-  }
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.submit {
+  background-color: blueviolet;
+  color: blue;
+}
