@@ -9,6 +9,10 @@ function triangle() {
     var XZ = parseInt(document.sides.X.value) + parseInt(document.sides.Z.value);
     var YZ = parseInt(document.sides.Z.value) + parseInt(document.sides.Z.value);
 
+    var number = 0;
+    var number1 = 0;
+    var number2 = 0;
+
     // var array_of_functions = [
     //     first_function,
     //     second_function,
@@ -16,8 +20,11 @@ function triangle() {
     //     forth_function
     // ]
     // array_of_functions[0]('a string');
+    if ( number ===number2) && (number1 === number2) && (number2 === number1)){
+        
+    }
 
-    if ((X === Z) && (X=== Y) && (Y===Z)){
+    else if  ((X === Z) && (X=== Y) && (Y===Z)){
         window.alert(" equilateral triangle!");
     }
     
